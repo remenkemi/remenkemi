@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++ and Java while improving my Lua skills. I'd like to learn Rust/Go and continue learning Python in the future.
 - 📫 How to reach me: remenkemi on Discord
 - 😄 Pronouns: [click here](https://bit.ly/2ZoPA60)
-- ⲟⲩⲣⲉⲙⲛ̀ⲭⲏⲙⲓ (Coptic!)
+- ⲟⲩⲣⲉⲙⲛ̀ⲭⲏⲙⲓ (Coptic!) ☦️🇪🇬
 
 <p align="center">
   <a href="https://github.com/remenkemi">
