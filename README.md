@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the [Stratosphere 777-300ER](https://github.com/Stratosphere-Studios/777-300ER), a free add-on for the X-Plane 12 flight simulator. I've also contributed to the [Sparky744](https://github.com/mSparks43/747-400) project.
 - 👀 I’m interested in aviation, flight simulation, computer science, music, and linguistics.
-- 🌱 I’m currently learning C++ and Java while improving my Lua skills. I'd like to learn Rust/Go and continue learning Python in the future.
+- 🌱 I’m currently learning C++ and Java while improving my Lua skills.
 - 📫 How to reach me: remenkemi on Discord
 - 😄 Pronouns: [click here](https://bit.ly/2ZoPA60)
 - ⲟⲩⲣⲉⲙⲛ̀ⲭⲏⲙⲓ (Coptic!) ☦️🇪🇬
