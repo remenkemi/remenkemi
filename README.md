@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/remenkemi">
-    <img align="center" src="https://komarev.com/ghpvc/?username=remenkemi&color=blue" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=crazytimtimtim&color=blue" />
   </a>
   <br>
   <br>
